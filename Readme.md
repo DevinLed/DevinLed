@@ -1,6 +1,6 @@
 Welcome to the Repositories of Devin Ledwell
 
-- LinkedIn Profile: https://github.com/DevinLed
+- LinkedIn Profile: https://www.linkedin.com/in/devin-ledwell-815330166
 - Devin Ledwell is a student at Get Coding
 
 Current Module: React.js 
