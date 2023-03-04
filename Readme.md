@@ -43,7 +43,7 @@ Module 3: React.js for Designers
             - Understands the 3-tier architecture, limitations and responsibilities of each tier
             - Can create or maintain UI libraries for dev teams using React.js
     Front-end: React.js
-    Project: Initial stage - brainstorming
+    Project: Bill Splitter for up to 5 people - using Camera API and Recimply resources for receipt form generation
     Coach: Jacob Critch
 
 Module 5: Node and SQL
