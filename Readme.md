@@ -3,7 +3,7 @@ Welcome to the Repositories of Devin Ledwell
 - LinkedIn Profile: https://www.linkedin.com/in/devin-ledwell-815330166
 - Devin Ledwell is a student at Get Coding
 
-Current Module: React.js 
+Current Module: Back-end & Database
 
 Project Descriptions:
 
@@ -43,12 +43,18 @@ Module 3: React.js for Designers
             - Understands the 3-tier architecture, limitations and responsibilities of each tier
             - Can create or maintain UI libraries for dev teams using React.js
     Front-end: React.js
-    Project: Bill Splitter for up to 5 people - using Camera API and Recimply resources for receipt form generation
+    Project: Divvy - Receipt Splitter, using Camera API and localstorage to keep track of expenses.
     Coach: Jacob Critch
 
-Module 5: Node and SQL
-
-    Back-end: Node.js, SQL
+Module 4: Back-end & Database
+    
+    Expected Outcomes:
+        At the end of the module, the student:
+	        -Is considered hireable as a junior back-end developer
+        	-Can create fairly complex back-ends using Node.js/Express without help
+        	-Can design relational databases for common use-cases
+        	-Has their project deployed in the cloud and understands the role of EB/EC2, RDS and Github Pages
+    Project: Plans to integrate backend communication into Divvy project from Module 3
     Coach: TBD
 
 Module 6: Portofolio
