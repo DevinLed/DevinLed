@@ -54,8 +54,8 @@ Module 4: Back-end & Database
         	-Can create fairly complex back-ends using Node.js/Express without help
         	-Can design relational databases for common use-cases
         	-Has their project deployed in the cloud and understands the role of EB/EC2, RDS and Github Pages
-    Project: Plans to integrate backend communication into Divvy project from Module 3
-    Coach: TBD
+    Project: Currently deploying AWS services for completed project from Module 3, Divvy.
+    Coach: Devin Marsh
 
 Module 6: Portofolio
 
