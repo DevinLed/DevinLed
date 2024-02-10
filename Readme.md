@@ -1,7 +1,7 @@
 Welcome to the Repositories of Devin Ledwell
 
 - LinkedIn Profile: https://www.linkedin.com/in/devin-ledwell-815330166
-- Devin Ledwell is a student at Get Coding
+- Devin Ledwell is a software developer student with Get Coding
 
 Current Module: Back-end & Database
 
@@ -14,6 +14,14 @@ Recipe Site
     Status: Completed. Will be moving onto a different project for the React.js module
     Coach: Sam Russell
 
+Divvy
+
+    Technologies: JavaScript, Node.js, React.js, AWS (DynamoDB, Amplify, Cognito)
+    Description: Divvy streamlines shared expenses, making it easy for friends and family to split costs hassle-free. Enjoy real-time notifications, secure logins with AWS Cognito, and efficient data handling with DynamoDB.
+    Status: Final stages - in the process of debugging for large scale, and fixing known issues.
+    Coach: Devin Marsh
+    Next Steps: Adding group splitting and refining user interactions for smoother expense splitting.
+	
 Get Coding Progress:
 
 Module 1: Intro to Web Dev
@@ -54,7 +62,7 @@ Module 4: Back-end & Database
         	-Can create fairly complex back-ends using Node.js/Express without help
         	-Can design relational databases for common use-cases
         	-Has their project deployed in the cloud and understands the role of EB/EC2, RDS and Github Pages
-    Project: Currently deploying AWS services for completed project from Module 3, Divvy.
+    Project: Deploying AWS services for completed project from Module 3, Divvy.
     Coach: Devin Marsh
 
 Module 6: Portofolio
