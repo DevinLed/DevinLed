@@ -21,7 +21,7 @@ Divvy
     Status: Final stages - in the process of debugging for large scale, and fixing known issues.
     Coach: Devin Marsh
     Next Steps: Adding group splitting and refining user interactions for smoother expense splitting.
-    Link to live project: [https://divvyitup.ca](https://divvyitup.ca)
+    Link to live project: https://divvyitup.ca
 	
 Get Coding Progress:
 
