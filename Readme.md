@@ -29,10 +29,10 @@ Module 1: Intro to Web Dev
 
     Expected Outcomes:
         At the end of the module, the student:
-            - Can set up and manage their future projects using github/vscode
-            - Gets into the habit of committing and pushing code frequently, ideally every day
-            - Can create simple web apps using html, css and vanilla JS
-            - Has a strong understanding of JS and programming logic, ready to move to ES6, React.js or Node.js
+        	- Can set up and manage their future projects using github/vscode
+        	- Gets into the habit of committing and pushing code frequently, ideally every day
+        	- Can create simple web apps using html, css and vanilla JS
+            	- Has a strong understanding of JS and programming logic, ready to move to ES6, React.js or Node.js
     Basics: Git, Github and VSCode
     Front-End: HTML, CSS and Javascript
     Project: Recipe Site
@@ -59,22 +59,28 @@ Module 4: Back-end & Database
     
     Expected Outcomes:
         At the end of the module, the student:
-	        -Is considered hireable as a junior back-end developer
-        	-Can create fairly complex back-ends using Node.js/Express without help
-        	-Can design relational databases for common use-cases
-        	-Has their project deployed in the cloud and understands the role of EB/EC2, RDS and Github Pages
+		- Is considered hireable as a junior back-end developer
+        	- Can create fairly complex back-ends using Node.js/Express without help
+        	- Can design relational databases for common use-cases
+        	- Has their project deployed in the cloud and understands the role of EB/EC2, RDS and Github Pages
     Project: Deploying AWS services for completed project from Module 3, Divvy.
     Coach: Devin Marsh
 
 Module 6: Portofolio
 
     Build Portfolio
-    Coach: TBD
+    Ongoing
 
 Module 7: Automated Testing
 
-    Automated Testing
-    Coach: TBD
+    Expected Outcomes:
+    	At the end of the module, the student:
+    		- Understands the importance and fundamentals of automated testing in software development.
+    		- Can write comprehensive unit tests and integration tests for backend and frontend code using Jest and other testing frameworks.
+		- Is able to set up and configure CI/CD pipelines to automate testing and deployment processes.
+    		- Knows how to mock external services and APIs to ensure tests are reliable and isolated from external dependencies.
+    Project: Applying automated testing to existing project, Divvy.
+    Coach: Devin Marsh
 
 Module 9: CI/CD Pipelines
 
