@@ -66,12 +66,12 @@ Module 4: Back-end & Database
     Project: Deploying AWS services for completed project from Module 3, Divvy.
     Coach: Devin Marsh
 
-Module 6: Portofolio
+Module 5: Portofolio
 
     Build Portfolio
     Ongoing
 
-Module 7: Automated Testing
+Module 6: Automated Testing & CI/CD Pipelines
 
     Expected Outcomes:
     	At the end of the module, the student:
@@ -79,10 +79,6 @@ Module 7: Automated Testing
     		- Can write comprehensive unit tests and integration tests for backend and frontend code using Jest and other testing frameworks.
 		- Is able to set up and configure CI/CD pipelines to automate testing and deployment processes.
     		- Knows how to mock external services and APIs to ensure tests are reliable and isolated from external dependencies.
+    Basic DevOps: CI/CD Pipelines
     Project: Applying automated testing to existing project, Divvy.
     Coach: Devin Marsh
-
-Module 9: CI/CD Pipelines
-
-    Basic DevOps: CI/CD Pipelines
-    Coach: TBD
